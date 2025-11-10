@@ -1,2 +1,2 @@
-# Projekt.Github
+# Projekt
 Projekt Phisik
